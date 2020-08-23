@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "8f573ea9a894fdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb01a993fd6c478b",
+        "type": "leaf",
+        "dimension": 53.2258064516129,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/getting-started-with-images.md",
+            "mode": "source"
+          }
+        },
+        "group": "dbaee4bae314da02"
+      },
+      {
+        "id": "a0d6034a36880311",
+        "type": "leaf",
+        "dimension": 46.774193548387096,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/getting-started-with-images.md",
+            "mode": "source"
+          }
+        },
+        "group": "dbaee4bae314da02"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eaa2112cce2f438",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3cb7cf33af248f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313af9ef127173c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbc8cbf433030a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "3adbe760ca25f6e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb53ff6a69724b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb30fe66bef056a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2c2932f7b10765",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-1/getting-started-with-images.md"
+              }
+            }
+          },
+          {
+            "id": "94e9878d6064ed77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week-1/getting-started-with-images.md"
+              }
+            }
+          },
+          {
+            "id": "d49595a2a9edc76e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "week-1/getting-started-with-images.md",
+    "mark-down-cheat-sheet/markdown-cheat-sheet.md",
+    "Internal links.md",
+    "daily-notes/2020-08-23.md",
+    "week-1/data/split-channels.png"
+  ]
+}

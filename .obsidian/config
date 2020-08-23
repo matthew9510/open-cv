@@ -1,0 +1,26 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "slides": true,
+    "outline": true,
+    "random-note": true,
+    "daily-notes": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "custom-css": true
+  },
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true
+}
