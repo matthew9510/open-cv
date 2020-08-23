@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "week-1/getting-started-with-images.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "week-1/getting-started-with-images.md",
+            "mode": "preview"
           }
         },
         "group": "dbaee4bae314da02"
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "week-1/getting-started-with-images.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "week-1/getting-started-with-images.md"
               }
             }
           },
@@ -115,10 +115,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md.md",
-    "week-1.md",
-    "Untitled.md",
     "week-1/getting-started-with-images.md",
-    "mark-down-cheat-sheet/markdown-cheat-sheet.md"
+    "README.md",
+    "mark-down-cheat-sheet/markdown-cheat-sheet.md",
+    "README.md.md",
+    "week-1.md"
   ]
 }
