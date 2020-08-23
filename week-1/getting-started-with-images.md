@@ -56,7 +56,7 @@ print("Image Dimensions = {}\n".format(testImage.shape))
 ```
 None = plt.imshow(image)
 ```
-![[bgr-example.png]]
+![bgr-example](./data/bgr-example.png)
 
 ### Show Color Bar Along with Displaying the Image
 ```
@@ -81,7 +81,7 @@ plt.imshow(image_rgb)
 plt.imshow(img[:,:,::-1])
 ```
 
-![[rgb-example.png]]
+![rgb-example](./data/rgb-example.png)
 
 <br> 
 
@@ -133,8 +133,7 @@ imgMerged = cv2.merge((b,g,r))
 # Show the merged output
 plt.subplot(144);plt.imshow(imgMerged[:,:,::-1]);plt.title("Merged Output");
 ```
-
-![[split-channels.png]]
+![split-channels](./data/split-channels.png)
 
 ### Merging Channels
 
@@ -149,7 +148,8 @@ imgMerged = cv2.merge((b,g,r))
 plt.subplot(144);plt.imshow(imgMerged[:,:,::-1]);plt.title("Merged Output");
 ```
 
-![[split-channels-and-merged-output.png]]
+
+![split-channels-and-merged-output](./data/split-channels-and-merged-output.png)
 
 <br>
 
@@ -206,7 +206,8 @@ plt.imshow(imgRGB)
 print("image Dimension ={}".format(imgPNG.shape))
 ```
 
-![[cougar.png]]
+![cougar](./data/cougar.png)
+
 
 
 ```
@@ -219,5 +220,5 @@ plt.subplot(121);plt.imshow(imgBGR[:,:,::-1]);plt.title('Color channels');
 plt.subplot(122);plt.imshow(imgMask,cmap='gray');plt.title('Alpha channel');
 ```
 
-![[cougar-alpha.png]]
+![cougar and alpha channel](./data/cougar-alpha.png)
 
