@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-1/getting-started-with-images.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-1/getting-started-with-images.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week-1/getting-started-with-images.md"
+                "file": "README.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week-1/getting-started-with-images.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,10 +115,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md.md",
+    "week-1.md",
+    "Untitled.md",
     "week-1/getting-started-with-images.md",
-    "mark-down-cheat-sheet/markdown-cheat-sheet.md",
-    "Internal links.md",
-    "daily-notes/2020-08-23.md",
-    "week-1/data/split-channels.png"
+    "mark-down-cheat-sheet/markdown-cheat-sheet.md"
   ]
 }
