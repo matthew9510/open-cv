@@ -44,8 +44,7 @@ print("Image Dimensions = {}\n".format(testImage.shape))
 	Image Dimensions = (height, width)
 
 **Note:**
-<span style="background-color: #FFFF00; color:black;">
-It should be kept in mind that in *Opencv*, size is represented as `width x height`, but in *numpy* size is represented as `height x width`</span>
+==It should be kept in mind that in *Opencv*, size is represented as `width x height`, but in *numpy* size is represented as `height x width`==
 
 <br> 
 
