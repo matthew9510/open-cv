@@ -8,8 +8,22 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "week-1/mathematical-operations-on-images.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c4ff2a48acedd38c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/mathematical-operations-on-images.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "week-1/mathematical-operations-on-images.md"
+              }
             }
           },
           {
@@ -74,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "week-1/mathematical-operations-on-images.md"
+              }
             }
           },
           {
@@ -93,10 +111,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "mark-down-cheat-sheet/markdown-cheat-sheet.md",
+    "week-1/mathematical-operations-on-images.md",
+    "README.md",
     "week-1/basic-image-operations.md",
     "week-1/getting-started-with-images.md",
-    "week-1/Untitled.md",
-    "README.md"
+    "week-1/Untitled.md"
   ]
 }
