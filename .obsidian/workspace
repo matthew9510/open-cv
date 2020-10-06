@@ -4,53 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d6034a36880311",
+        "id": "8c0ed9585e3846c0",
         "type": "leaf",
-        "dimension": 65.16853932584269,
-        "pinned": true,
+        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mark-down-cheat-sheet/markdown-cheat-sheet.md",
-            "mode": "preview"
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
-      },
-      {
-        "id": "224dbbcfa8342eb1",
-        "type": "split",
-        "dimension": 34.83146067415731,
-        "children": [
-          {
-            "id": "d69a6833fe3b29bd",
-            "type": "leaf",
-            "dimension": 63.11557788944724,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week-1/getting-started-with-images.md",
-                "mode": "source"
-              }
-            },
-            "group": "232bb293afceba56"
-          },
-          {
-            "id": "27d26a7d1ec8f45e",
-            "type": "leaf",
-            "dimension": 36.88442211055276,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week-1/getting-started-with-images.md",
-                "mode": "preview"
-              }
-            },
-            "group": "232bb293afceba56"
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "week-1/getting-started-with-images.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "week-1/getting-started-with-images.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,10 +93,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "week-1/getting-started-with-images.md",
     "mark-down-cheat-sheet/markdown-cheat-sheet.md",
-    "README.md",
-    "README.md.md",
-    "week-1.md"
+    "week-1/basic-image-operations.md",
+    "week-1/getting-started-with-images.md",
+    "week-1/Untitled.md",
+    "README.md"
   ]
 }
