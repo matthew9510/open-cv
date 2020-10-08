@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "week-1/mathematical-operations-on-images.md",
+            "mode": "source"
           }
         }
       },
@@ -50,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           },
           {
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "week-1/mathematical-operations-on-images.md"
               }
             }
           },
@@ -91,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "week-1/mathematical-operations-on-images.md"
               }
             }
           },
@@ -111,6 +113,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "week-1/mathematical-operations-on-images.md",
+    "mark-down-cheat-sheet/markdown-cheat-sheet.md",
     "README.md",
     "mark-down-cheat-sheet/vim-cheatsheet.png",
     "mark-down-cheat-sheet/markdown-cheatsheet-online.pdf",
