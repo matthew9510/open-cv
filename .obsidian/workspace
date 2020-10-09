@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369
   },
   "right": {
     "id": "eb53ff6a69724b6b",
@@ -115,10 +115,10 @@
   "lastOpenFiles": [
     "week-1/mathematical-operations-on-images.md",
     "mark-down-cheat-sheet/markdown-cheat-sheet.md",
-    "README.md",
+    "mark-down-cheat-sheet/markdown-cheatsheet-1.png",
+    "mark-down-cheat-sheet/markdown-cheatsheet-2.png",
     "mark-down-cheat-sheet/vim-cheatsheet.png",
     "mark-down-cheat-sheet/markdown-cheatsheet-online.pdf",
-    "mark-down-cheat-sheet/markdown-cheatsheet-2.png",
-    "mark-down-cheat-sheet/markdown-cheatsheet-1.png"
+    "README.md"
   ]
 }
